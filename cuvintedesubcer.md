@@ -107,6 +107,6 @@ Drept de autor: Veronica Rusu-Bucico<br>
 </p>
 
         </div>
-    </div>
+    
 </body>
 </html>
